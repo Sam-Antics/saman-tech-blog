@@ -1,0 +1,28 @@
+{
+  "name": "saman-tech-blog",
+  "version": "1.0.0",
+  "description": "Module 14 Challenge ## Table of Contents 1. [Project Description](#project-description) 2. [Usage](#usage) 3. [Built With](#built-with) 4. [Author](#author) 5. [Other Contributors](#other-contributors)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sam-Antics/saman-tech-blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sam-Antics/saman-tech-blog/issues"
+  },
+  "homepage": "https://github.com/Sam-Antics/saman-tech-blog#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.21.3"
+  }
+}
