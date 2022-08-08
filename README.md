@@ -54,7 +54,7 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 ```
 ## Usage
 ### Deployed Application Demonstration
-![Deployed application](#)
+[Click Here for Heroku-deployed Application](https://saman-tech-blog.herokuapp.com/)
 
 ## Built With
 * Node.js
@@ -62,6 +62,7 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 * Sequelize
 * npm MySQL2 package
 * npm dotenv package
+* npm bcrypt package
 
 
 
