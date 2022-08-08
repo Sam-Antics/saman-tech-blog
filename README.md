@@ -5,7 +5,7 @@ Module 14 Challenge
 2. [Usage](#usage)
 3. [Built With](#built-with)
 4. [Author](#author)
-5. [Other Contributors](#other-contributors)
+5. [Contributions](#contributions)
 
 ## Project Description
 This is a CMS-style blog site similar to Wordpress, where developers can publish their blog posts and comment on other developers' posts as well!
@@ -53,7 +53,7 @@ WHEN I am idle on the site for more than a set time
 THEN I am able to view comments but I am prompted to log in again before I can add, update, or delete comments
 ```
 ## Usage
-### Deployed Application Demonstration
+### Deployed Application 
 [Click Here for Heroku-deployed Application](https://saman-tech-blog.herokuapp.com/)
 
 ## Built With
@@ -71,5 +71,5 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 - [GitHub Profile](https://github.com/Sam-Antics)
 - [LinkedIn](https://www.linkedin.com/in/seguerra/)
 
-## Other Contributors
+## Contributions
 Thank you for your interest in this project. At this time, I am not accepting contributions.
